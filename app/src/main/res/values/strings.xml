@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Inventory App</string>
     <!-- menu -->
-    <string name="action_delete">Delete</string>
-    <string name="action_delete_all_entries">Delete All Products</string>
+     <string name="action_settings">Settings</string>
     <!-- suppliers -->
     <string name="omron">Omron</string>
     <string name="wellmed">Wellmed</string>
